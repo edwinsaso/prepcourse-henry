@@ -1,2 +1,1 @@
-# prepcourse-henry
-este es un repositorio del modulo 2 del prepcourse de Henry
+este es un proyecto de como crear un repositorio desde la nube y clonarlo a mi computadora local
